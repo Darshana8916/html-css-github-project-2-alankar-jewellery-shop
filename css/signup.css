@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #7fffea, #78d8ff);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+    height: 80vh;
+    display: flex;
+    box-shadow: 0 0 20px rgba(0,0,0,0.2);
+}
+
+.left-box {
+    flex: 1;
+    background: linear-gradient(140deg, #12e0c8, #38c0ff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.hexagon {
+    width: 200px;
+    height: 200px;
+    background: #1c2a3e;
+    clip-path: polygon(50% 0%, 90% 25%, 90% 75%, 50% 100%, 10% 75%, 10% 25%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.hexagon h2 {
+    color: white;
+    text-align: center;
+    font-weight: 600;
+    letter-spacing: 1px;
+}
