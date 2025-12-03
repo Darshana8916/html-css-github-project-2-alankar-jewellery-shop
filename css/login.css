@@ -12,14 +12,14 @@ body
      .parent{
                 
         height: 400px;
-        width:300px;
+        width:1000px;
         border: solid 2px black;
     }
 
 .parent{
-    background-color:white;
+    background-color:rgb(138, 25, 25);
     height:440px;
-    width: 280px;
+    width: 500px;
     justify-content: center;
     margin-left: 400px;
     margin-top:40px;
@@ -36,7 +36,20 @@ body
     border-radius: 50px;
     margin-top: 10px;
     margin-bottom:none;
-    background-color: rgb(107, 29, 107);
+    background-color:rgb(6, 187, 6);
     text-align: center;
-    box-shadow: 3px 5px 2px black;
+    box-shadow: 3px 5px 2px rgb(83, 58, 58);
     }
+
+     .btn2{
+    padding:6px 30px;
+    border-radius:5px;
+    box-shadow: 4px 5px 2px black;
+   }
+   .text1{
+    text-align: center;
+    color:rgb(131, 34, 131);
+   }
+ .text3{
+    color:rgb(87, 24, 87);
+ }
