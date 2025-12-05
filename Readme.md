@@ -1,4 +1,4 @@
-✨ Alankar Jewellers – Modern Jewellery Website
+✨ **Alankar Jewellers – Modern Jewellery Website**
 
 A fully responsive and beautifully designed jewellery shop website built using HTML & CSS.
 
@@ -11,10 +11,10 @@ This project showcases clean UI design, beautiful layouts, product sections, col
 
 🚀 Live Demo
 
-🔗 GitHub Pages Link:
-👉 https://snehamore23.github.io/html-css-github-project-2-alankar-jewellery-shop/
+Netlify Link:
+https://alankar-jewellary-shop.netlify.app/
 
-<h1=Features>
+**Feature**
 
 ✔️ Elegant and modern jewellery website
 
@@ -31,3 +31,8 @@ This project showcases clean UI design, beautiful layouts, product sections, col
 ✔️ Attractive color palette
 
 ✔️ Clean code structure
+
+**Screenshort of Home page**
+
+![Screenshot](./images/sc-homepage.png)
+![Screenshot](./images/sc-homepage1.png)
