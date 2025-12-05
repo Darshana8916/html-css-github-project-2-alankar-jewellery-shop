@@ -175,7 +175,7 @@
         }
 
         button {
-            width: 180px;
+            width: 130px;
             padding: 14px;
             background: #31443b;
             color: white;
@@ -186,6 +186,7 @@
             align-self: center;
             font-weight: bold;
         }
+
 
         
         .btn:hover {
