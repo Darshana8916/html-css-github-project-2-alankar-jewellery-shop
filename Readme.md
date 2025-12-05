@@ -12,5 +12,22 @@ This project showcases clean UI design, beautiful layouts, product sections, col
 🚀 Live Demo
 
 🔗 GitHub Pages Link:
-(Add your GitHub Pages link after deployment)
 👉 https://snehamore23.github.io/html-css-github-project-2-alankar-jewellery-shop/
+
+<h1=Features>
+
+✔️ Elegant and modern jewellery website
+
+✔️ Fully responsive design
+
+✔️ Navigation bar with logo
+
+✔️ Product cards (Rings / Necklaces / earrings / More)
+
+✔️ Collection pages
+
+✔️ Smooth UI & layout
+
+✔️ Attractive color palette
+
+✔️ Clean code structure
